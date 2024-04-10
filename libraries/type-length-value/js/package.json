@@ -49,9 +49,9 @@
     "devDependencies": {
         "@types/chai": "^4.3.14",
         "@types/mocha": "^10.0.6",
-        "@types/node": "^20.12.4",
-        "@typescript-eslint/eslint-plugin": "^7.5.0",
-        "@typescript-eslint/parser": "^7.5.0",
+        "@types/node": "^20.12.7",
+        "@typescript-eslint/eslint-plugin": "^7.6.0",
+        "@typescript-eslint/parser": "^7.6.0",
         "chai": "^5.1.0",
         "eslint": "^8.57.0",
         "eslint-config-prettier": "^9.1.0",
@@ -62,7 +62,7 @@
         "prettier": "^3.2.5",
         "shx": "^0.3.4",
         "ts-node": "^10.9.2",
-        "typedoc": "^0.25.12",
+        "typedoc": "^0.25.13",
         "typescript": "^5.4.4"
     }
 }
